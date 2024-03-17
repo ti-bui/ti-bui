@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Transitioning from three passionate years in photography to a career in Software Engineering has been an exciting journey. With my background in the arts, I aim to strike a balance between creativity and logic in the tech world. This balance aligns with my passion for creating interactive applications that are not only useful but also enhance the user experience, making technology more accessible to users of all ages.
 
-🌱 In my free time, I’m currently learning ThreeJS, R3F, Shader GLSL. I love playing around with the colors, camera angles and lightings. Here are some 3D experiments 
+🌱 During my free time, I'm immersed in learning ThreeJS, R3F, and Shader GLSL. I enjoy experimenting with colors, camera angles, and lighting, drawing inspiration from my background in photography. I've showcased some of my 3D experiments on my GitHub repository. Feel free to explore them and I would to hear your thoughts.
+
 <img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/0ac5903b-44d0-4ef6-a5ae-d366d73177c5">
 <img width="312" alt="morphing sphere" src="https://github.com/ti-bui/ti-bui/assets/134459274/7a516a05-2c93-4cfd-ac2a-f9c8a5006355">
 

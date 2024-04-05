@@ -35,10 +35,10 @@
         </td>
         <td width="50%" align="center">
             <a href="https://www.loom.com/share/9f7b494f1c274359b64bf303af471dcc?sid=85adc527-9cac-4ac3-a5da-bb0ae97d06f0" target="_blank">
-                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+                <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=243964">
             </a>
             <a href="https://github.com/ti-bui/capstone-client" target="_blank">
-                <img src="https://img.shields.io/badge/Demo">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
             </a>
         </td>
     </tr>
@@ -68,18 +68,68 @@
     </tr>
 </table>
 
--->
-### 💫 About Me:
-Transitioning from three passionate years in photography to a career in Software Engineering has been an exciting journey. With my background in the arts, I aim to strike a balance between creativity and logic in the tech world. This balance aligns with my passion for creating interactive applications that are not only useful but also enhance the user experience, making technology more accessible to users of all ages.
+<h1>🔥ThreeJS Projects</h1>
 
-🌱 During my free time, I'm immersed in learning ThreeJS, R3F, and Shader GLSL. I enjoy experimenting with colors, camera angles, and lighting, drawing inspiration from my background in photography. I've showcased some of my 3D experiments on my GitHub repository. Feel free to explore them and I would love to hear your thoughts.
-
-<img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/0ac5903b-44d0-4ef6-a5ae-d366d73177c5">
-
-<img width="312" alt="morphing sphere" src="https://github.com/ti-bui/ti-bui/assets/134459274/7a516a05-2c93-4cfd-ac2a-f9c8a5006355">
-
-<img width="312" alt="Screenshot 2024-03-17 at 15 54 24" src="https://github.com/ti-bui/ti-bui/assets/134459274/af76eb38-9740-4a6b-9b28-852029f667e1">
-
+<table bordercolor="#66b2b2" width="100%">
+    <tr valign="top">
+        <td width="50%" align="center">
+            <h3>Dance Robo</h3>
+        </td>
+        <td width="50%" align="center">
+            <h3>Photography Website </h3>
+        </td>
+    </tr>
+    <tr valign="center">
+           <td width="50%" align="center">
+            <img src="https://github.com/ti-bui/ti-bui/assets/134459274/61f7d592-95b4-409b-b1cc-3d6306685e3b"/>
+        </td>
+        <td width="50%" align="center">
+            <img src="https://github.com/ti-bui/ti-bui/assets/134459274/2b77ea82-0756-4434-8c77-f95718f950ec"/>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%" align="center">
+            <a href="https://dance-robo.vercel.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+            </a>
+            <a href="https://github.com/ti-bui/dance-robo" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a>
+        </td>
+        <td width="50%" align="center">
+            <a href="https://www.loom.com/share/9f7b494f1c274359b64bf303af471dcc?sid=85adc527-9cac-4ac3-a5da-bb0ae97d06f0" target="_blank">
+                <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=243964">
+            </a>
+            <a href="https://github.com/ti-bui/capstone-client" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> Next.js, Typescript, Tailwind, DaisyUI, Axios, Figma, Jira, Postman
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> ReactJS, Sass/BEM, HTML/CSS, JavaScript, GSAP, Framer Motion, NodeJS, Express, Axios
+            </p>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+              This project marked my first working experience in tech as a Frontend Developer. I was also responsible for the UX/UI design and played as the Project Manager leading a small team.
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                This is my first fullstack website built in July 2023 after graduating from Software Engineering bootcamp.
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 

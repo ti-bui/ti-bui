@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align='center'> Hello 🇨🇦 Xin chào 🇻🇳 I am Ti </h1>
+<h2 align='center'>A Full-stack Engineer with a background in photography</h2>
+
+<div align='center'>
+<img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393"><img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"><img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa">
+<div>
 
 <!--
 **ti-bui/ti-bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+### 💫 About Me:
 Transitioning from three passionate years in photography to a career in Software Engineering has been an exciting journey. With my background in the arts, I aim to strike a balance between creativity and logic in the tech world. This balance aligns with my passion for creating interactive applications that are not only useful but also enhance the user experience, making technology more accessible to users of all ages.
 
 🌱 During my free time, I'm immersed in learning ThreeJS, R3F, and Shader GLSL. I enjoy experimenting with colors, camera angles, and lighting, drawing inspiration from my background in photography. I've showcased some of my 3D experiments on my GitHub repository. Feel free to explore them and I would love to hear your thoughts.

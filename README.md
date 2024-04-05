@@ -76,7 +76,7 @@
             <h3>Dance Robo</h3>
         </td>
         <td width="50%" align="center">
-            <h3>Photography Website </h3>
+            <h3>Fox in galaxy </h3>
         </td>
     </tr>
     <tr valign="center">
@@ -84,7 +84,7 @@
             <img src="https://github.com/ti-bui/ti-bui/assets/134459274/61f7d592-95b4-409b-b1cc-3d6306685e3b"/>
         </td>
         <td width="50%" align="center">
-            <img src="https://github.com/ti-bui/ti-bui/assets/134459274/2b77ea82-0756-4434-8c77-f95718f950ec"/>
+            <img src="https://github.com/ti-bui/ti-bui/assets/134459274/d2f6bd88-a97a-4fe5-af7b-c0000b15ef8c"/>
         </td>
     </tr>
     <tr valign="top">
@@ -97,10 +97,10 @@
             </a>
         </td>
         <td width="50%" align="center">
-            <a href="https://www.loom.com/share/9f7b494f1c274359b64bf303af471dcc?sid=85adc527-9cac-4ac3-a5da-bb0ae97d06f0" target="_blank">
+            <a href="https://fox-in-galaxy.vercel.app/" target="_blank">
                 <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=243964">
             </a>
-            <a href="https://github.com/ti-bui/capstone-client" target="_blank">
+            <a href="https://github.com/ti-bui/fox-in-galaxy" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
             </a>
         </td>
@@ -108,12 +108,12 @@
     <tr valign="top">
         <td width="50%">
             <p>
-                <strong>Stack:</strong> Next.js, Typescript, Tailwind, DaisyUI, Axios, Figma, Jira, Postman
+                <strong>Stack:</strong> ThreeJS, Javascript, HTML, Vite
             </p>
         </td>
         <td width="50%">
             <p>
-                <strong>Stack:</strong> ReactJS, Sass/BEM, HTML/CSS, JavaScript, GSAP, Framer Motion, NodeJS, Express, Axios
+                <strong>Stack:</strong> ThreeJS, Javascript, HTML, Vite
             </p>
         </td>
     </tr>

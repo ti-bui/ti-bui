@@ -98,7 +98,7 @@
         </td>
         <td width="50%" align="center">
             <a href="https://fox-in-galaxy.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=243964">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
             </a>
             <a href="https://github.com/ti-bui/fox-in-galaxy" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
@@ -120,12 +120,12 @@
     <tr valign="top">
         <td width="50%">
             <p>
-              This project marked my first working experience in tech as a Frontend Developer. I was also responsible for the UX/UI design and played as the Project Manager leading a small team.
+              A 3D experiment for my ThreeJS learning.
             </p>
         </td>
         <td width="50%">
             <p>
-                This is my first fullstack website built in July 2023 after graduating from Software Engineering bootcamp.
+                A 3D experiment for my ThreeJS learning.
             </p>
         </td>
     </tr>

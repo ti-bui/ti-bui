@@ -5,19 +5,69 @@
 <img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393"><img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"><img width="312" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa">
 <div>
 
-<!--
-**ti-bui/ti-bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>🔥 Projects</h1>
 
-Here are some ideas to get you started:
+<table bordercolor="#66b2b2" width="100%">
+    <tr valign="top">
+        <td width="50%" align="center">
+            <h3>ClaimTrade</h3>
+        </td>
+        <td width="50%" align="center">
+            <h3>Photography Website </h3>
+        </td>
+    </tr>
+    <tr valign="center">
+        <td width="50%" align="center">
+            <img src="https://github.com/ti-bui/ti-bui/assets/134459274/87c68994-bfe4-4f53-8821-14c84354068f"/>
+        </td>
+        <td width="50%" align="center">
+            <img src="https://github.com/ti-bui/ti-bui/assets/134459274/2b77ea82-0756-4434-8c77-f95718f950ec"/>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%" align="center">
+            <a href="https://claimtrade.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+            </a>
+            <a href="https://github.com/GalaxyTechnologies/002-claim-trade-client" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a> 
+        </td>
+        <td width="50%" align="center">
+            <a href="https://www.loom.com/share/9f7b494f1c274359b64bf303af471dcc?sid=85adc527-9cac-4ac3-a5da-bb0ae97d06f0" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+            </a>
+            <a href="https://github.com/ti-bui/capstone-client" target="_blank">
+                <img src="https://img.shields.io/badge/Demo">
+            </a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> Next.js, Typescript, Tailwind, DaisyUI, Axios, Figma, Jira, Postman
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> ReactJS, Sass/BEM, HTML/CSS, JavaScript, GSAP, Framer Motion, NodeJS, Express, Axios
+            </p>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+              This project marked my first working experience in tech as a Frontend Developer. I was also responsible for the UX/UI design and played as the Project Manager leading a small team.
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                This is my first fullstack website built in July 2023 after graduating from Software Engineering bootcamp.
+            </p>
+        </td>
+    </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ### 💫 About Me:
 Transitioning from three passionate years in photography to a career in Software Engineering has been an exciting journey. With my background in the arts, I aim to strike a balance between creativity and logic in the tech world. This balance aligns with my passion for creating interactive applications that are not only useful but also enhance the user experience, making technology more accessible to users of all ages.

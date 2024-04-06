@@ -36,7 +36,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="left">🔥Projects </h2>
+<h2 align="left">🌟Projects </h2>
 
 <table bordercolor="#66b2b2" width="100%">
     <tr valign="top">
@@ -99,7 +99,7 @@
     </tr>
 </table>
 
-<h2 align="left">🔥ThreeJS Projects </h2>
+<h2 align="left">🚀ThreeJS Projects </h2>
 
 <table bordercolor="#66b2b2" width="100%">
     <tr valign="top">

@@ -1,6 +1,5 @@
-<h1 align='center'> Hello 🇨🇦 Xin chào 🇻🇳 I am Ti </h1>
-
 <div align='center'>
+ <h1> Hello 🇨🇦 Xin chào 🇻🇳 I am Ti </h1>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ti-bui/)
 [![Resume](https://camo.githubusercontent.com/8d638b67909c12f5ff6988702b9c9b39788604333ae51d3c4d75095d122df40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726573756d652d3234333936343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)](https://ti-bui.github.io/resume/Resume_TiBui.pdf)
@@ -8,17 +7,17 @@
 </div>
 
 
-<h2 align='center'>A Full-stack Engineer with a background in photography</h2>
+<h2 align='center'>A Full-stack Engineer with a background in Photography</h2>
 
 <div align='center' style="flex">
-<img width="500" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393">
+<img width="500" alt="k50" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393">
 <!---<img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"> -->
 <!---<img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa"> -->
 <div>
 
-<h4 align='left'>
+<h3 align='left'>
  With 3 years of experience in the art industry, I've built a strong foundation in visual design. Transitioning into tech, I'm grateful to leverage this experience, developing into an engineer proficient not only in coding but also in design thinking for UX/UI enhancement.
-</h4>
+</h3>
 
 <h2 align='left'>🤓About Me</h2>
 <p align='left'>

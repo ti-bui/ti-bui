@@ -20,9 +20,10 @@
  With 3 years of experience in the art industry, I've built a strong foundation in visual design. Transitioning into tech, I'm grateful to leverage this experience, developing into an engineer proficient not only in coding but also in design thinking for UX/UI enhancement.
 </h4>
 
-<h4 align='left'>
+<h2 align='left'>🤓About Me</h2>
+<p align='left'>
     Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it takes 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🍽️ 
-</h4>
+</p>
  
    <img width="250" src="https://github.com/ti-bui/ti-bui/assets/134459274/2769be5e-a026-45f9-8a45-4a2554598c49" />
    <img width="150" src="https://github.com/ti-bui/ti-bui/assets/134459274/a9312416-57ed-4be9-b83a-5816ce60c904" />
@@ -31,7 +32,7 @@
 
 
 <section align="left">
-<h2>My Tech Stacks</h2>
+<h2>🔧My Tech Stacks</h2>
 <h3>Programming Languages</h3>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

@@ -5,16 +5,32 @@
 <img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393"><img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"><img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa">
 <div>
 
-<div align="left">
-<h1 >💻 Tech Stack:</h1>
+<section align="left">
+<h2>My Tech Stacks</h2>
+<h3>Programming Languages</h3>
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Working Knowledge:![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/sass-CC6699.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+<h3>Frameworks and Languages</h3>
 
-Exposed:  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-</div>
+<h3>System and Database</h3>
 
-<h1 align="left">🔥Projects </h1>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<h2 align="left">🔥Projects </h2>
 
 <table bordercolor="#66b2b2" width="100%">
     <tr valign="top">
@@ -77,7 +93,7 @@ Exposed:  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&
     </tr>
 </table>
 
-<h1 align="left">🔥ThreeJS Projects </h1>
+<h2 align="left">🔥ThreeJS Projects </h2>
 
 <table bordercolor="#66b2b2" width="100%">
     <tr valign="top">

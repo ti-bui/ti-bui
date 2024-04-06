@@ -1,4 +1,13 @@
 <h1 align='center'> Hello 🇨🇦 Xin chào 🇻🇳 I am Ti </h1>
+
+<div align='center'>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ti-bui/)
+[![Resume](https://camo.githubusercontent.com/8d638b67909c12f5ff6988702b9c9b39788604333ae51d3c4d75095d122df40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726573756d652d3234333936343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)](https://ti-bui.github.io/resume/Resume_TiBui.pdf)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=microsoftexchange)](mailto:tibui.dev@gmail.com)
+</div>
+
+
 <h2 align='center'>A Full-stack Engineer with a background in photography</h2>
 
 <div align='center' style="flex">
@@ -6,10 +15,23 @@
 <div>
 
 <div align='left'>
-<p>
+<h4>
  With 3 years of experience in the art industry, I've built a strong foundation in visual design. Transitioning into tech, I'm grateful to leverage this experience, developing into an engineer proficient not only in coding but also in design thinking for UX/UI enhancement.
-</p>
+</h4>
 </div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+ <div>
+   <h2>🤓About Me🤓</h2>
+   <p align='left'>Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it takes 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🍽️ </p>
+ </div>
+ <div>
+   <img width="250" src="https://github.com/ti-bui/ti-bui/assets/134459274/2769be5e-a026-45f9-8a45-4a2554598c49" />
+   <img width="150" src="https://github.com/ti-bui/ti-bui/assets/134459274/a9312416-57ed-4be9-b83a-5816ce60c904" />
+   <img width="250" src="https://github.com/ti-bui/ti-bui/assets/134459274/a7237afc-0f35-4a53-8ace-53c6b29d76d5" />
+ </div>
+</div>
+
 
 <section align="left">
 <h2>My Tech Stacks</h2>
@@ -161,10 +183,5 @@
         </td>
     </tr>
 </table>
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/badebum._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ti-bui/) 
 
 

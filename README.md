@@ -19,7 +19,7 @@
 </h3>
 <h1> </h1>
 <p align='left'>
-    Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it took 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🍽️ 
+    Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it took 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🤤
 </p>
  
    <img width="250" src="https://github.com/ti-bui/ti-bui/assets/134459274/2769be5e-a026-45f9-8a45-4a2554598c49" />

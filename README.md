@@ -5,6 +5,12 @@
 <img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393"><img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"><img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa">
 <div>
 
+<div align='left'>
+<p>
+ With 3 years of experience in the art industry, I've built a strong foundation in visual design. Transitioning into tech, I'm grateful to leverage this experience, developing into an engineer proficient not only in coding but also in design thinking for UX/UI enhancement.
+</p>
+</div>
+
 <section align="left">
 <h2>My Tech Stacks</h2>
 <h3>Programming Languages</h3>

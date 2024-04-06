@@ -11,26 +11,23 @@
 <h2 align='center'>A Full-stack Engineer with a background in photography</h2>
 
 <div align='center' style="flex">
-<img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393"><img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"><img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa">
+<img width="500" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/c36307cb-6b4b-49cb-b7e7-0f99cc9e5393">
+<!---<img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"> -->
+<!---<img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa"> -->
 <div>
 
-<div align='left'>
-<h4>
+<h4 align='left'>
  With 3 years of experience in the art industry, I've built a strong foundation in visual design. Transitioning into tech, I'm grateful to leverage this experience, developing into an engineer proficient not only in coding but also in design thinking for UX/UI enhancement.
 </h4>
-</div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
- <div>
-   <h2>🤓About Me🤓</h2>
-   <p align='left'>Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it takes 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🍽️ </p>
- </div>
- <div>
+<h4 align='left'>
+    Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it takes 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🍽️ 
+</h4>
+ 
    <img width="250" src="https://github.com/ti-bui/ti-bui/assets/134459274/2769be5e-a026-45f9-8a45-4a2554598c49" />
    <img width="150" src="https://github.com/ti-bui/ti-bui/assets/134459274/a9312416-57ed-4be9-b83a-5816ce60c904" />
-   <img width="250" src="https://github.com/ti-bui/ti-bui/assets/134459274/a7237afc-0f35-4a53-8ace-53c6b29d76d5" />
- </div>
-</div>
+    <img width="250" src="https://github.com/ti-bui/ti-bui/assets/134459274/a7237afc-0f35-4a53-8ace-53c6b29d76d5" /> 
+ 
 
 
 <section align="left">

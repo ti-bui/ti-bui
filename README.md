@@ -14,12 +14,10 @@
 <!---<img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/4bb9d6c1-72fd-42db-8485-17935c5238d6"> -->
 <!---<img width="250" alt="dance-robo" src="https://github.com/ti-bui/ti-bui/assets/134459274/5f73a88e-65d1-4b0b-8824-1ccb001d54fa"> -->
 <div>
-
 <h3 align='left'>
  With 3 years of experience in the art industry, I've built a strong foundation in visual design. Transitioning into tech, I'm grateful to leverage this experience, developing into an engineer proficient not only in coding but also in design thinking for UX/UI enhancement.
 </h3>
-
-<h2 align='left'>🤓About Me</h2>
+<h1> </h1>
 <p align='left'>
     Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it takes 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🍽️ 
 </p>

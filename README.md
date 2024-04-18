@@ -18,6 +18,7 @@
  With 3 years of experience in the art industry, I've built a strong foundation in visual design. Transitioning into tech, I'm grateful to leverage this experience, developing into an engineer proficient not only in coding but also in design thinking for UX/UI enhancement.
 </h3>
 <h1> </h1>
+ <h3>About Me</h3>
 <p align='left'>
     Aside from coding, I enjoy immersing myself in nature, going trekking, and camping in the mountains. Here are some photos I captured during my treks in Vietnam. Typically, it took 6-8 hours of continuous trekking to reach the campsite, with an additional 10-15kg of camping equipment and food in my backpack. For sure, my body was screaming along the way but what made me keep going was the delicious BBQ at night 🍖🤤
 </p>
@@ -105,7 +106,7 @@
     <tr valign="top">
         <td width="50%">
             <p>
-              This project marked my first working experience in tech as a Frontend Developer. I was also responsible for the UX/UI design and played as the Project Manager leading a small team.
+             ClaimTrade is a cutting-edge marketplace web application that enables users to trade the rights to mine materials off land parcels, referred to as "claims."
             </p>
         </td>
         <td width="50%">

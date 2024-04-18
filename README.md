@@ -111,7 +111,7 @@
         </td>
         <td width="50%">
             <p>
-                This is my first fullstack website built in July 2023 after graduating from Software Engineering bootcamp.
+                This is my first fullstack website built in July 2023 after graduating from Software Engineering program.
             </p>
         </td>
     </tr>

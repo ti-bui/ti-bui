@@ -62,7 +62,7 @@
             <h3>ClaimTrade</h3>
         </td>
         <td width="50%" align="center">
-            <h3>Photography Website </h3>
+            <h3>Portfolio</h3>
         </td>
     </tr>
     <tr valign="center">
@@ -70,7 +70,7 @@
             <img src="https://github.com/ti-bui/ti-bui/assets/134459274/87c68994-bfe4-4f53-8821-14c84354068f"/>
         </td>
         <td width="50%" align="center">
-            <img src="https://github.com/ti-bui/ti-bui/assets/134459274/2b77ea82-0756-4434-8c77-f95718f950ec"/>
+            <img src="https://github.com/user-attachments/assets/1238c063-a6e9-41ab-a9d5-03b32f05749d">
         </td>
     </tr>
     <tr valign="top">
@@ -83,10 +83,10 @@
             </a> 
         </td>
         <td width="50%" align="center">
-            <a href="https://www.loom.com/share/9f7b494f1c274359b64bf303af471dcc?sid=85adc527-9cac-4ac3-a5da-bb0ae97d06f0" target="_blank">
+            <a href="https://www.tibui.dev/" target="_blank">
                 <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=243964">
             </a>
-            <a href="https://github.com/ti-bui/capstone-client" target="_blank">
+            <a href="https://github.com/ti-bui/portfolio-2024" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
             </a>
         </td>
@@ -99,7 +99,7 @@
         </td>
         <td width="50%">
             <p>
-                <strong>Stack:</strong> ReactJS, Sass/BEM, HTML/CSS, JavaScript, GSAP, Framer Motion, NodeJS, Express, Axios
+                <strong>Stack:</strong> React Three Fiber, ThreeJS, Javascript, Tailwindcss, Framer Motion, Mixamo
             </p>
         </td>
     </tr>
@@ -111,7 +111,7 @@
         </td>
         <td width="50%">
             <p>
-                This is my first fullstack website built in July 2023 after graduating from Software Engineering program.
+             Personal portfolio 2024, aiming for smooth scrolling and interactive 3D elements for an engaging UX/UI.
             </p>
         </td>
     </tr>
